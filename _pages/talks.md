@@ -8,21 +8,24 @@ nav: true
 
 ### invited talks
 
+- [NERT Seminar @ Georgetown University](http://nert.georgetown.edu/)
+    * [Addressing Biases for Robust, Generalizable AI](https://youtu.be/aci8qwMufYY)
+    * Feb 24, 2020
+- [NLP Seminar @ Georgia Tech](https://sites.google.com/view/nlpseminar/home)
+    * [Addressing Biases for Robust, Generalizable AI](https://youtu.be/aci8qwMufYY)
+    * Feb 12, 2020
 - E+D Product Leads Conference: Microsoft (Virtual)
-    * Addressing Bias in Datasets and Models
+    * [Addressing Bias in Datasets and Models](../assets/pdf/talks/MS-ResponsibleAI.pdf)
     * Nov 2, 2020
-    * [Slides](../assets/pdf/talks/MS-ResponsibleAI.pdf)
-- Rising Stars in EECS: University of Illinois, Urbana-Champaign.
+- [Rising Stars in EECS](https://publish.illinois.edu/rising-stars/): University of Illinois, Urbana-Champaign.
     * Biases and Learning Challenges in Natural Language Processing
     * Oct 30, 2019
-- Colloquium: Department of Linguistics, University of Washington
-    * Sprucing up a Dataset: Adversarially Filtering Dataset Artifacts
+- [Colloquium: Department of Linguistics](https://linguistics.washington.edu/colloquia), University of Washington
+    * [Sprucing up a Dataset: Adversarially Filtering Dataset Artifacts](../assets/pdf/talks/Sprucing-UW-Linguistics-Colloquium.pdf)
     * Oct 18, 2019
-    * [Slides](../assets/pdf/talks/Sprucing-UW-Linguistics-Colloquium.pdf)
-- AI2 Seminar: Allen Institute for AI
-    * Learning Challenges in Natural Language Processing
+- [AI2 Seminar](https://www.youtube.com/watch?v=oKb4a90ZG7s&t=10s): Allen Institute for AI
+    * [Learning Challenges in Natural Language Processing](../assets/pdf/talks/Learning-Challenges-in-NLP-AI2.pdf)
     * Apr 8, 2019
-    * [Slides](../assets/pdf/talks/Learning-Challenges-in-NLP-AI2.pdf)
 - Stanford NLP Seminar: Stanford University
     * Learning Challenges in Natural Language Processing
     * Apr 4, 2019
@@ -36,9 +39,8 @@ nav: true
     * Learning Challenges in Natural Language Processing
     * Jan 22, 2019
 - AI Breakthroughs Workshop, Microsoft Research, Redmond
-    * Representation Learning with Linguistic Structure
+    * [Representation Learning with Linguistic Structure](../assets/pdf/talks/Swabha-MSR-AI-Breakthroughs.pdf)
     * Sep 15, 2018
-    * [Slides](../assets/pdf/talks/Swabha-MSR-AI-Breakthroughs.pdf)
 - NorthWest NLP: Microsoft Research, Redmond
     * Syntactic Scaffolds for Semantic Structures
     * Apr 27, 2018
