@@ -93,6 +93,9 @@
     {% if entry.code %}
       <abbr class="badge"><a href="{{ entry.code }}" target="_blank">Code</a></abbr>
     {% endif %}
+    {% if entry.note %}
+      <abbr class="badge">{{ entry.note }}</abbr>
+    {% endif %}
     {% if entry.poster %}
       {% if entry.poster contains '://' %}
       <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0 btn-gray" role="button" target="_blank">Poster</a>
