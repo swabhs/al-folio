@@ -16,7 +16,10 @@ nav: true
 
 ### guest lectures
 
-- <a class="button button1" href="../assets/pdf/talks/utaustin-guest-lecture-biases-and-interpretability.pdf">Biases and Interpretability</a> for [UT-Austin CS395T](https://www.cs.utexas.edu/~eunsol/courses/cs395t/index.html)
+- <a class="button button1" href="../assets/pdf/talks/swabha-uw-data-598-tl.pdf">Transfer Learning</a> for UW DATA 598: Statistical Deep Learning
+    * Host Instructor: Zaid Harachoui
+    * Spring 2021
+- <a class="button button1" href="../assets/pdf/talks/utaustin-guest-lecture-biases-and-interpretability.pdf">Biases and Interpretability</a> for [UT-Austin CS395T](https://www.cs.utexas.edu/~eunsol/courses/cs395t_fa20/index.html)
     * Host Instructor: Eunsol Choi
     * Fall 2020
 - Phrase-Structure Parsing for [UW CSE 447/547: Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)
