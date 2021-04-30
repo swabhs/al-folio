@@ -20,7 +20,7 @@ projects: false  # includes project cards on the home page
 
 My research focuses on studying biases in [datasets](https://arxiv.org/abs/2009.10795) and models.
 *Good biases*, such as [structural inductive biases](https://www.aclweb.org/anthology/D18-1412) help language understanding - check out my [PhD thesis](/assets/pdf/swabha_thesis.pdf) on these.
-But biases can be *undesirable*, e.g. [spurious correlations](https://arxiv.org/abs/2002.04108) commonly found in crowd-sourced, large-scale datasets due to [annotation artifacts](https://arxiv.org/abs/1803.02324), or social prejudices of human annotators and task designers, which are [difficult to rid](https://arxiv.org/abs/2102.00086)!.
+But biases can be *undesirable*, e.g. [spurious correlations](https://arxiv.org/abs/2002.04108) commonly found in crowd-sourced, large-scale datasets due to [annotation artifacts](https://arxiv.org/abs/1803.02324), or social prejudices of human annotators and task designers, which are [difficult to rid](https://arxiv.org/abs/2102.00086)!
 
 ##### Previously...
 I obtained my [PhD](https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta) from Carnegie Mellon University in May 2019, where I was advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
