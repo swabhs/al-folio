@@ -6,7 +6,7 @@ description: Postdoctoral Investigator • <a href="https://mosaic.allenai.org/"
 
 profile:
   align: right
-  image: swabha.jpg
+  image: swabha_florida.jpg
   address:
 
 news: true  # includes a list of news items
@@ -25,8 +25,9 @@ But biases can be *undesirable*, e.g. [spurious correlations](https://arxiv.org/
 ##### Previously...
 I obtained my [PhD](https://www.lti.cs.cmu.edu/people/18088/swabha-swayamdipta) from Carnegie Mellon University in May 2019, where I was advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
 During most of my PhD I was a visiting student at the [University of Washington](https://www.cs.washington.edu/) in Seattle.
+I received a Masters degree from [Columbia University](https://www.cs.columbia.edu/) where I was advised by [Owen Rambow](https://owenrambow.com/), and my B.Tech in CSE from [NIT Calicut](http://www.nitc.ac.in/).
 
 <!-- Prior to my PhD, I obtained a Masters degree from Columbia University, working with Owen Rambow and Michael Collins.
 I received my bachelors degree in Computer Science and Engineering from National Institute of Technology, Calicut, India. -->
 
-<a class="btn btn-sm btn-green">Update</a> I am looking for <span style="color:#2698BA">**academic positions**</span> in Winter / Spring 2021!
+<a class="btn btn-sm btn-green">Update</a> I will be starting as an Assistant Professor in the [USC Viterbi Department of CS](https://www.cs.usc.edu/) in Fall 2022!
